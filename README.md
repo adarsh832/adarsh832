@@ -37,21 +37,12 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=adarsh832&theme=radical" alt="adarsh832" />
 </p>
 
-## 🌟 Featured Projects
-
-<a href="https://github.com/adarsh832/ai-voice-command">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=adarsh832&repo=ai-voice-command&theme=radical" />
-</a>
-
 ## 🤝 Connect with me
 
 <p align="left">
 <a href="https://linkedin.com/in/your-linkedin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="your-linkedin" height="30" width="40" /></a>
 <a href="https://twitter.com/your-twitter" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="your-twitter" height="30" width="40" /></a>
 </p>
-
-## 📈 Activity Graph
-![Activity Graph](https://activity-graph.herokuapp.com/graph?username=adarsh832&theme=github)
 
 ---
 
