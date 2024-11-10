@@ -7,7 +7,7 @@
 
 ## 🔭 Current Projects
 
-- [AI Voice Command System](https://github.com/adarsh832/ai-voice-command)
+- [AI Voice Command System](https://github.com/adarsh832/AI)
 - Working on AI and Automation projects
 - Exploring LLM implementations
 
