@@ -1,5 +1,8 @@
 <div align="center">
   <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="300"/>
+  <h3>
+    <a href="https://prod.spline.design/xNPwUHbWrysczVmS/scene.splinecode" target="_blank">🎨 View My 3D Design</a>
+  </h3>
 </div>
 
 <h1 align="center">
