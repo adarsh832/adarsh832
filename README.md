@@ -1,8 +1,7 @@
 <div align="center">
   <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="300"/>
 </div>
-<script type="module" src="https://unpkg.com/@splinetool/viewer@1.9.48/build/spline-viewer.js"></script>
-<spline-viewer url="https://prod.spline.design/xNPwUHbWrysczVmS/scene.splinecode"></spline-viewer>
+
 <h1 align="center">
   Hey there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> I'm Adarsh
 </h1>
