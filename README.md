@@ -75,7 +75,7 @@ I'm a Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy
   class Adarsh:
       def __init__(self):
           self.current_projects = ["AI Voice Command System 🎙️", "System Automation 🤖"]
-          self.learning = ["LLMs 🧠", "System Integration 🔄", "Cloud Computing ☁️"]
+          self.learning = ["LLMs 🧠", "System Integration 🔄"]
           self.interests = ["AI 🤖", "Automation 🔧", "Open Source 🌟"]
   
       def say_hi(self):
