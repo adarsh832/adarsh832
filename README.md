@@ -1,6 +1,6 @@
-<!-- Neon Glow Animated Banner -->
+<!-- Neon Pulse Banner -->
 <p align="center">
-  <img src="https://svg-banners.vercel.app/api?type=glitch&text1=Adarsh%20Shah%20🚀&width=800&height=200" alt="Glitch Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=0:00f0ff,100:ff00ff&height=250&section=header&text=Adarsh%20Shah%20🚀&fontSize=60&animation=twinkling&fontColor=ffffff" alt="Neon Banner"/>
 </p>
 
 <h1 align="center">
