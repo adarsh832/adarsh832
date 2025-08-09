@@ -1,4 +1,8 @@
-<!-- Header Section -->
+<!-- Neon Glow Animated Banner -->
+<p align="center">
+  <img src="https://svg-banners.vercel.app/api?type=glitch&text1=Adarsh%20Shah%20🚀&width=800&height=200" alt="Glitch Banner" />
+</p>
+
 <h1 align="center">
   Hey there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" height="35px"/>  
   I'm <span style="color:#2EAFFF;">Adarsh Shah</span> 🚀
